@@ -7,6 +7,6 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        
+        <local:InfoEmployee Width="Auto" Height="Auto" surnameEmployee="Борисова" nameEmployee="Елизавета" ageEmployee="21" positionEmployee="Студент" photoEmployee="resources/photoemp.jpg"  Margin="173,67,133,74"/>        
     </Grid>
 </Window>

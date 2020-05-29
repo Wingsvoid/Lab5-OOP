@@ -23,6 +23,6 @@ namespace CardEmployee
         public MainWindow()
         {
             InitializeComponent();
-        }
+        }       
     }
 }
